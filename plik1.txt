@@ -3,3 +3,5 @@ test test
 druga linia.
 
 bledna linia
+
+zmieniony w branchu iss53
