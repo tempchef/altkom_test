@@ -1,5 +1,3 @@
 test test
 
 druga linia.
-
-zla linia bablablbalbal
