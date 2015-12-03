@@ -4,4 +4,4 @@ druga linia.
 
 bledna linia
 
-zmieniony w branchu iss53
+zmieniony w branchu iss53 - zmiana w iss
