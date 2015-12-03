@@ -1,7 +1,1 @@
-test test blablablablablablablablablablbalablablababalalbalbalbalba
-
-druga linia.
-
-bledna linia
-
-zmieniony w branchu iss53 - master
+testing
