@@ -1,8 +1,4 @@
 zmiene dla rebase -i
 1
 2
-3
-4
-5
-6
-7
+3 druga zmiana - teraz jest ok
