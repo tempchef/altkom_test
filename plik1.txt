@@ -1,5 +1,4 @@
-zmiana w branchu iss53 dla rebase
-eeeee bleeeee duuuupa 
-
-
-aaaaaa chuuuuuuj
+zmiene dla rebase -i
+1
+2
+3 druga zmiana - teraz jest ok
