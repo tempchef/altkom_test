@@ -1,5 +1,1 @@
-test test
-
-druga linia.
-
-bledna linia
+zmiana w hotfix dla rebase
