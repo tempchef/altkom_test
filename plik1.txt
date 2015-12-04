@@ -1,1 +1,1 @@
-zmiana w master - dla reabse
+zmiana w branchu iss53 dla rebase
